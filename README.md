@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niranjan kumhar
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning React Native.
-- 💞️ I’m looking to collaborate on fb.
+- 🌐 Portfolio- https://niranjanportfolio.netlify.app/
 - 📫 niranjan8434@gmail.com / 8434851001
 
 <!---
